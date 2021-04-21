@@ -116,3 +116,7 @@ h1 {
 .nav-item a:hover {
   font-weight: bold;
 }
+
+.navbar-brand {
+  font-weight: bolder;
+}
